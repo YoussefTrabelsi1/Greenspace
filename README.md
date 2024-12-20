@@ -1,4 +1,3 @@
-```markdown
 # Green Spaces and Tree Map Visualization Project
 
 This project focuses on analyzing and visualizing data about urban trees in the city of Grenoble. The dataset contains rich information such as tree locations (latitude and longitude), height, age, species, and health conditions. The end goal is to create a web application that provides an interactive map to display trees and their associated data, along with predictive analytics for maintenance and sustainability planning.
@@ -69,20 +68,5 @@ The data is sourced from municipal services and is part of the FDEC challenge fo
    python app.py
    ```
 
-## Contributing
 
-Feel free to contribute by:
-- Reporting bugs
-- Suggesting features
-- Submitting pull requests
 
-## License
-
-This project is licensed under the [MIT License](LICENSE).
-
----
-
-This project is part of the **FDEC Challenge 2023/2024** by the Université de Lorraine. Special thanks to Big Datext and the City of Grenoble for providing the dataset.
-```
-
-Let me know if you'd like modifications or additional sections.
