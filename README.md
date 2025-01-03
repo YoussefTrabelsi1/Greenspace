@@ -66,7 +66,7 @@ The data is sourced from municipal services and is part of the FDEC challenge fo
    ```
 3. Run the application:
    ```bash
-   python app.py
+   streamlit run scripts/dashboard.py
    ```
 
 
