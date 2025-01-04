@@ -57,7 +57,8 @@ The data is sourced from municipal services and is part of the FDEC challenge fo
 1. Clone the repository:
    ```bash
    git clone <repo-url>
-   cd <repo-name>
+   cd Greenspace
+
    ```
 2. Install dependencies:
    ```bash
@@ -65,7 +66,7 @@ The data is sourced from municipal services and is part of the FDEC challenge fo
    ```
 3. Run the application:
    ```bash
-   python app.py
+   streamlit run scripts/dashboard.py
    ```
 
 
